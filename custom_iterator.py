@@ -20,3 +20,6 @@ for x in c:
     print(x)
 
 # Output: 1 2 3
+
+# Iterable: An object you can loop over.
+# Iterator: An object that gives you one value at a time using next().
